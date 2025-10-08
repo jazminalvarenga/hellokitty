@@ -1,15 +1,8 @@
 hola jeje
-<<<<<<< HEAD
 hola jeje
 hola jeje
 soy malvada eeeee
-=======
 
-hola
+Hola, estoy en mi rama :)
 
-#Problemitas??
-*Cositas*
-git de @#~#€
-
->>>>>>> ee438694b4ace5a5f2694a23c69e8d8611aae726
-Voy a cambiar todo jejejejejej.......
+nose que pone
